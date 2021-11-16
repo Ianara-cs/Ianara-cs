@@ -11,7 +11,7 @@
   <img align="center" alt="Nara-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fthe10-1.fna.fbcdn.net/v/t51.2885-19/s150x150/257651763_581858006397751_9186156159868015156_n.jpg?_nc_ht=instagram.fthe10-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=jjU844_mSCcAX-rdpIb&edm=ABfd0MgBAAAA&ccb=7-4&oh=6903d01b256df87e12d96b6791ed5a4e&oe=619AED2D&_nc_sid=7bff83">
+  <img align="right" alt="Nara-pic" height="150" style="border-radius:50px;" src="https://instagram.fthe10-1.fna.fbcdn.net/v/t51.2885-19/s150x150/257651763_581858006397751_9186156159868015156_n.jpg?_nc_ht=instagram.fthe10-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=jjU844_mSCcAX-rdpIb&edm=ABfd0MgBAAAA&ccb=7-4&oh=6903d01b256df87e12d96b6791ed5a4e&oe=619AED2D&_nc_sid=7bff83">
 </div>
   
  ##
