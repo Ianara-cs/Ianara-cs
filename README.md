@@ -1,6 +1,4 @@
 ## Olá! Eu me chamo Ianara 👋😃
-> Eu quero aprender mais, compreender mais, evoluir sempre. Quero ter direito a sonhar alto e alcançar meus objetivos com garra e determinação. Quero conquistar novos conhecimentos, todos os dias. E fazer de cada dia uma lição de vida. Quero desenvolver os meus talentos e alcançar meus objetivos, sem deixar de olhar para o mundo ao meu redor. Quero encarar cada desafio como oportunidade. E fazer dos obstáculos minha maior motivação. Eu sei o que eu quero. Eu quero é vencer.
-
 ### 📫 Contato:
 
 <div style="display: inline_block">
